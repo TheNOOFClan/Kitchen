@@ -10,3 +10,6 @@ The Backburner -- Projects that have been put on hold for now. Origin of extende
 The Oven -- Projects that may never be completely finished, and are instead periodically updated.
 The Cupboard -- Ideas for future projects.
 The Table -- Projects that are done and have been released for public use.
+The Bin -- Projects that have been abandoned permanently or scrapped
+The Fridge -- Projects that have been suspended for now
+Staff -- Who's working on what
